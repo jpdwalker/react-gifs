@@ -26,7 +26,6 @@ class App extends Component {
     });
   }
 
-
   selectGif = (id) => {
     this.setState({
       selectedGifId: id
